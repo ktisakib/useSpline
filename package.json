@@ -1,0 +1,25 @@
+{
+  "name": "teeeest",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@react-three/drei": "^9.13.0",
+    "@react-three/fiber": "^8.0.22",
+    "@splinetool/loader": "^0.9.65",
+    "@splinetool/r3f-spline": "^1.0.1",
+    "next": "12.1.6",
+    "react": "18.1.0",
+    "react-dom": "18.1.0",
+    "three": "^0.141.0"
+  },
+  "devDependencies": {
+    "eslint": "8.16.0",
+    "eslint-config-next": "12.1.6"
+  }
+}
